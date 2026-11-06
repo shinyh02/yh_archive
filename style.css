@@ -443,3 +443,7 @@ footer {
     line-height: 1;
     z-index: 1;
 }
+a.photo-item {
+    text-decoration: none;
+    color: inherit;
+}
